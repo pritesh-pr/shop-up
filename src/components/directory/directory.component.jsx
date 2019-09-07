@@ -23,13 +23,13 @@ class Directory extends React.Component {
                     imageUrl: 'https://media.dollskill.com/media/yMrQtadlqmIxcpaBKzhRZHlMNTOiM4yL-34.jpg'
                 },
                 {
-                    title: 'WOMENS',
+                    title: 'WOMEN',
                     id: 4,
                     imageUrl: 'https://thoughtcatalog.files.wordpress.com/2014/07/screen-shot-2014-07-17-at-5-12-54-pm.png?w=786',
                     size: 'large'
                 },
                 {
-                    title: 'MENS',
+                    title: 'MEN',
                     id: 5,
                     imageUrl: 'https://www.firetrap.com/images/marketing/firetrap-mens-jackets-aw17.jpg',
                     size: 'large'
